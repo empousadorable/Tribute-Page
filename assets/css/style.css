@@ -1,0 +1,72 @@
+body {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    background-color: #f7ffc7;
+    color: #26417a;
+}
+
+#main {
+
+}
+
+#title {
+    font-size: 3.5rem;
+    color: #26417a;
+    font-weight: bold;
+}
+
+#tagline {
+    font-size: 1.6rem;
+    color: #26417a;
+    font-weight: bold;
+}
+
+#img-div {
+    background-color: aquamarine;
+    padding: 10px;
+}
+
+#image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: none;
+}
+
+#img-caption {
+    width: 100%;
+    height: auto;
+}
+
+#tribute-info {
+
+}
+
+#facts {
+
+}
+
+#fact-list {
+    text-align: left;
+    padding-left: 150px;
+}
+
+#quote {
+
+}
+
+#quotation {
+
+}
+
+#quote-credit {
+
+}
+
+#wiki-link {
+
+}
+
+#wiki-page {
+
+}
