@@ -16,6 +16,6 @@ Thanks to the following people who have contributed to this project:
 
 ## Links
 
-* [Deployed website on CodePen](https://codepen.io/chelsea-jordan-thurman/pen/dypEEqR)
+* [Deployed Website](https://empousadorable.github.io/Tribute-Page/)
 * [Repository](https://github.com/empousadorable/Tribute-Page)
 * [Issues](https://github.com/empousadorable/Tribute-Page/issues)
